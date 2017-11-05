@@ -1,0 +1,12 @@
+{
+    "name": "tierquiz",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "alexa-sdk": "^1.0.18"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "MIT"
+}

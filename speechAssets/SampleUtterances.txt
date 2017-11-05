@@ -1,0 +1,7 @@
+AnimalIntent {Animal}
+AnimalIntent Ein {Animal}
+AnimalIntent Eine {Animal}
+AnimalIntent Der {Animal}
+AnimalIntent Die {Animal}
+AnimalIntent Das {Animal}
+AMAZON.StopIntent stop
